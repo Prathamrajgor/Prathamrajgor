@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathamrajgor
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Kali Kinux and Metaploit
+- 🌱 I’m currently learning Kali Kinux and Metasploit
 
 <!---
 Prathamrajgor/Prathamrajgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
