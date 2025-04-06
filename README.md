@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prathamrajgor, Jack of all, master of none
+- 👋 Hi, I’m @Prathamrajgor. Jack of all, master of none!
 
 <!---
 Prathamrajgor/Prathamrajgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
