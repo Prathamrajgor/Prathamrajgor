@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Prathamrajgor, a Security Researcher.
-- 👀 I’m interested in Web-app Penetration Testing
+- 👋 Hi, I’m @Prathamrajgor, Jack of all, master of none
 
 <!---
 Prathamrajgor/Prathamrajgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
